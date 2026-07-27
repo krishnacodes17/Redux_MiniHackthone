@@ -6,9 +6,9 @@ A modern and responsive E-Commerce web application built with **React**, **Redux
 
 ## 🚀 Live Demo
 
-```
+
 https://redux-mini-hackthone.vercel.app/
-```
+
 
 
 ## ✨ Features
